@@ -1,0 +1,10 @@
+{
+  "status": 0,
+  "data": {
+    "versionCode": 2,
+    "versionName": "1.0.2",
+    "desc": "Aggiornamento BoxHelper",
+    "url": "https://accelleratixx.github.io/boxhelper-update/update/apk/BoxHelper.apk",
+    "force": true
+  }
+}
