@@ -3,7 +3,7 @@
   "data": {
     "versionCode": 3,
     "versionName": "1.0.3",
-    "apkUrl": "https://accelleratixx.github.io/boxhelper-update/BoxHelper.apk",
+    "apkUrl": "https://accelleratixx.github.io/boxhelper-update/app.apk",
     "desc": "Aggiornamento BoxHelper",
     "force": false
   }
